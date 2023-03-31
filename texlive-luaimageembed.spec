@@ -1,6 +1,6 @@
 Name:		texlive-luaimageembed
 Version:	50788
-Release:	1
+Release:	2
 Summary:	Embed images as base64-encoded strings
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/luaimageembed
