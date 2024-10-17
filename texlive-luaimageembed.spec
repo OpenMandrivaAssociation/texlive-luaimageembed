@@ -3,7 +3,7 @@ Version:	50788
 Release:	2
 Summary:	Embed images as base64-encoded strings
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/luaimageembed
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/luaimageembed
 License:	mit
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/luaimageembed.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/luaimageembed.doc.r%{version}.tar.xz
